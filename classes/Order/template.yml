@@ -1,0 +1,17 @@
+
+  - method: exampleMethod
+    description: >
+      Describe me
+    inputModel: ExampleMethodInput
+    outputModel: ExampleMethodOutput
+    type: WRITE
+    handler: order-status.exampleMethod
+  
+  - method: exampleMethod
+    description: >
+      Describe me
+    inputModel: ExampleMethodInput
+    outputModel: ExampleMethodOutput
+    type: WRITE
+    handler: order-status.exampleMethod
+  

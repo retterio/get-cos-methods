@@ -1,0 +1,24 @@
+{
+  "name": "test-template.yml",
+  "version": "1.0.0",
+  "description": "test class template.yml file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retterio/test-template.yml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/retterio/test-template.yml#readme",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "zod": "3.17.2",
+    "ts-node": "10.9.1",
+    "tsconfig-paths": "3.14.1",
+    "dotenv": "16.0.0",
+    "typescript": "4.5.4"
+
+  }
+}
